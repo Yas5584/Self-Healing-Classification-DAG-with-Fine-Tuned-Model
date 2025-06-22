@@ -1,0 +1,33 @@
+{"timestamp": "2025-06-22T11:31:45.474294", "event": "inference", "data": {"text": "this movie is not good", "prediction": {"label": "NEGATIVE", "confidence": 0.9942103624343872}}}
+{"timestamp": "2025-06-22T11:31:45.516294", "event": "confidence_check", "data": {"status": "above_threshold", "confidence": 0.9942103624343872}}
+{"timestamp": "2025-06-22T11:31:45.533299", "event": "final_decision", "data": {"text": "this movie is not good", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T11:32:14.999128", "event": "inference", "data": {"text": "this movide was slow and boarning", "prediction": {"label": "NEGATIVE", "confidence": 0.917985737323761}}}
+{"timestamp": "2025-06-22T11:32:15.029123", "event": "confidence_check", "data": {"status": "above_threshold", "confidence": 0.917985737323761}}
+{"timestamp": "2025-06-22T11:32:15.045125", "event": "final_decision", "data": {"text": "this movide was slow and boarning", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T11:32:28.537644", "event": "inference", "data": {"text": "this movie was great", "prediction": {"label": "POSITIVE", "confidence": 0.9948886036872864}}}
+{"timestamp": "2025-06-22T11:32:28.567638", "event": "confidence_check", "data": {"status": "above_threshold", "confidence": 0.9948886036872864}}
+{"timestamp": "2025-06-22T11:32:28.582640", "event": "final_decision", "data": {"text": "this movie was great", "final_label": "POSITIVE"}}
+{"timestamp": "2025-06-22T11:45:02.343424", "event": "inference", "data": {"text": "this movie was good enough", "prediction": {"label": "POSITIVE", "confidence": 0.9774448871612549}}}
+{"timestamp": "2025-06-22T11:45:02.405425", "event": "final_decision", "data": {"text": "this movie was good enough", "final_label": "POSITIVE"}}
+{"timestamp": "2025-06-22T11:45:43.376945", "event": "inference", "data": {"text": "this movie's character was great but story was booring", "prediction": {"label": "NEGATIVE", "confidence": 0.9888736009597778}}}
+{"timestamp": "2025-06-22T11:45:44.748955", "event": "final_decision", "data": {"text": "this movie's character was great but story was booring", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T11:47:23.141510", "event": "inference", "data": {"text": "the movie was painfully slow and booring", "prediction": {"label": "NEGATIVE", "confidence": 0.9949707388877869}}}
+{"timestamp": "2025-06-22T11:47:23.206515", "event": "final_decision", "data": {"text": "the movie was painfully slow and booring", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T11:48:00.045413", "event": "inference", "data": {"text": "this movie was great but characters are not good\\", "prediction": {"label": "NEGATIVE", "confidence": 0.8408216834068298}}}
+{"timestamp": "2025-06-22T11:48:00.077413", "event": "confidence_check", "data": {"status": "below_threshold", "confidence": 0.8408216834068298, "threshold": 0.9}}
+{"timestamp": "2025-06-22T11:48:10.476256", "event": "fallback", "data": {"action": "user_correction", "response": "yes"}}
+{"timestamp": "2025-06-22T11:48:10.486273", "event": "final_decision", "data": {"text": "this movie was great but characters are not good\\", "final_label": "positive"}}
+{"timestamp": "2025-06-22T11:48:57.086233", "event": "inference", "data": {"text": "the movie was not good but story is best", "prediction": {"label": "NEGATIVE", "confidence": 0.5882729291915894}}}
+{"timestamp": "2025-06-22T11:48:57.121235", "event": "confidence_check", "data": {"status": "below_threshold", "confidence": 0.5882729291915894, "threshold": 0.9}}
+{"timestamp": "2025-06-22T11:49:07.717653", "event": "fallback", "data": {"action": "user_correction", "response": "n"}}
+{"timestamp": "2025-06-22T11:49:07.726651", "event": "final_decision", "data": {"text": "the movie was not good but story is best", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T15:19:30.539580", "event": "inference", "data": {"text": "this movie was good but movie characters are not good", "prediction": {"label": "NEGATIVE", "confidence": 0.9394246935844421}}}
+{"timestamp": "2025-06-22T15:19:30.601582", "event": "final_decision", "data": {"text": "this movie was good but movie characters are not good", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T15:20:10.393953", "event": "inference", "data": {"text": "movie was not good but actors acting was great", "prediction": {"label": "NEGATIVE", "confidence": 0.8822528123855591}}}
+{"timestamp": "2025-06-22T15:20:10.429947", "event": "confidence_check", "data": {"status": "below_threshold", "confidence": 0.8822528123855591, "threshold": 0.9}}
+{"timestamp": "2025-06-22T15:20:21.927558", "event": "fallback", "data": {"action": "user_correction", "response": "n"}}
+{"timestamp": "2025-06-22T15:20:21.936555", "event": "final_decision", "data": {"text": "movie was not good but actors acting was great", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T15:35:51.488960", "event": "inference", "data": {"text": "this movie was dull and boaring", "prediction": {"label": "NEGATIVE", "confidence": 0.9967237114906311}}}
+{"timestamp": "2025-06-22T15:35:51.546965", "event": "final_decision", "data": {"text": "this movie was dull and boaring", "final_label": "NEGATIVE"}}
+{"timestamp": "2025-06-22T15:39:26.148193", "event": "inference", "data": {"text": "the movie was good but story was not good", "prediction": {"label": "NEGATIVE", "confidence": 0.9890701770782471}}}
+{"timestamp": "2025-06-22T15:39:26.210195", "event": "final_decision", "data": {"text": "the movie was good but story was not good", "final_label": "NEGATIVE"}}
