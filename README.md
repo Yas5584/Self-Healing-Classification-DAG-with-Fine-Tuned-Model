@@ -90,7 +90,7 @@ BACKUP_MODEL_NAME=facebook/bart-large-mnli
 # Path to fine-tuned model
 MODEL_PATH=sentiment_model
 
-Demo-
+Demo-https://www.loom.com/share/701fae7dd79c402498760464637d30f5?sid=41caa7a5-fcf3-4af4-8766-d6a69865e7b9
 
 Bonus Features
 Backup model integration for zero-shot classification
